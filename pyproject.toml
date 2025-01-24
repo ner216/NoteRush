@@ -1,0 +1,4 @@
+[project]
+name = "note-rush"
+version = "0.1"
+dependancies = [""]
